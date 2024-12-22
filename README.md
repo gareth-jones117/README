@@ -1,1 +1,1 @@
-# README
+Welcome to my Profile.Here you will find all my coursework I did while I was a dev-academy , and some projects ive been tinckering with since finishing. I hope to add lots of cool projects in the future , so keep posted.
